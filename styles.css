@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	width: 500px;
+	margin: auto;
+	padding-top: 30px;
+}
+
+img {
+	border: black 3px solid;
+}
+
+footer {
+	font-size: 10px;
+}
+
+a {
+	text-decoration: underline;
+	color: orange;
+	font-weight: bold;
+}
+
+.fun {font-style: italic;}
+.group {font-weight: bold;}
+
+#example {
+	background-color: #ffe9bf;
+	padding-bottom: 10px;
+	width: 506px;		
+}
+
+section{
+	margin-bottom: 20px;
+}
